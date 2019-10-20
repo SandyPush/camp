@@ -1,0 +1,13 @@
+1571301189652 {"sig_no":35001,"data":{"toPage":33,"timestamp":1571301189673},"room_id":555}
+1571301192220 {"sig_no":35901,"data":{"methodName":"numTouchEndSync","nodeName":"q7","param":["btn_0"],"timestamp":1571301192241},"room_id":555}
+1571301193340 {"sig_no":35901,"data":{"methodName":"submitExercise","nodeName":"q7","param":[],"timestamp":1571301193363},"room_id":555}
+1571301195105 {"sig_no":35901,"data":{"methodName":"numTouchEndSync","nodeName":"q7","param":["btn_0"],"timestamp":1571301195128},"room_id":555}
+1571301196212 {"sig_no":35901,"data":{"methodName":"submitExercise","nodeName":"q7","param":[],"timestamp":1571301196234},"room_id":555}
+1571301198013 {"sig_no":35901,"data":{"methodName":"numTouchEndSync","nodeName":"q7","param":["btn_0"],"timestamp":1571301198036},"room_id":555}
+1571301198935 {"sig_no":35901,"data":{"methodName":"submitExercise","nodeName":"q7","param":[],"timestamp":1571301198958},"room_id":555}
+1571301201103 {"sig_no":35901,"data":{"methodName":"numTouchEndSync","nodeName":"q7","param":["btn_0"],"timestamp":1571301201125},"room_id":555}
+1571301201921 {"sig_no":35901,"data":{"methodName":"submitExercise","nodeName":"q7","param":[],"timestamp":1571301201944},"room_id":555}
+1571301205118 {"sig_no":35901,"data":{"methodName":"numTouchEndSync","nodeName":"q7","param":["btn_0"],"timestamp":1571301205141},"room_id":555}
+1571301208524 {"sig_no":35901,"data":{"methodName":"submitExercise","nodeName":"q7","param":[],"timestamp":1571301208547},"room_id":555}
+1571301214720 {"sig_no":35901,"data":{"methodName":"numTouchEndSync","nodeName":"q7","param":["btn_0"],"timestamp":1571301214743},"room_id":555}
+1571301215848 {"sig_no":35901,"data":{"methodName":"submitExercise","nodeName":"q7","param":[],"timestamp":1571301215871},"room_id":555}

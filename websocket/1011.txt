@@ -1,0 +1,12 @@
+1568615497664 {"sig_no":35001,"data":{"toPage":9,"timestamp":1568615496969},"room_id":1011}
+1568615499706 {"sig_no":35901,"data":{"methodName":"FlagTouchStartSync","nodeName":"q7","param":["Click1"],"timestamp":1568615499015},"room_id":1011}
+1568615500084 {"sig_no":35901,"data":{"methodName":"FlagTouchStartSync","nodeName":"q7","param":["Click1"],"timestamp":1568615499394},"room_id":1011}
+1568615500452 {"sig_no":35901,"data":{"methodName":"FlagTouchStartSync","nodeName":"q7","param":["Click1"],"timestamp":1568615499762},"room_id":1011}
+1568615500788 {"sig_no":35901,"data":{"methodName":"FlagTouchStartSync","nodeName":"q7","param":["Click1"],"timestamp":1568615500097},"room_id":1011}
+1568615501683 {"sig_no":35901,"data":{"methodName":"ClickTouchSync","nodeName":"q7","param":["Btn1"],"timestamp":1568615500993},"room_id":1011}
+1568615503100 {"sig_no":35901,"data":{"methodName":"ClickTouchSync","nodeName":"q7","param":["Btn2"],"timestamp":1568615502410},"room_id":1011}
+1568615506346 {"sig_no":35008,"data":{"_name":"ScriptPlayerQuestionDispatchEvent","isDispatch":true,"isHybrid":false,"timestamp":1568615505656},"room_id":1011}
+1568615512694 {"sig_no":35009,"data":{"_name":"ScriptPlayerQuestionReceiveEvent","isDispatch":false,"isHybrid":false,"timestamp":1568615512005},"room_id":1011}
+1568615515206 {"sig_no":35901,"data":{"methodName":"FlagTouchStartSync","nodeName":"q7","param":["Click1"],"timestamp":1568615514516},"room_id":1011}
+1568615515615 {"sig_no":35901,"data":{"methodName":"FlagTouchStartSync","nodeName":"q7","param":["Click1"],"timestamp":1568615514918},"room_id":1011}
+1568615516312 {"sig_no":35901,"data":{"methodName":"FlagTouchStartSync","nodeName":"q7","param":["Click1"],"timestamp":1568615515622},"room_id":1011}

@@ -1,0 +1,14 @@
+1571320246941 {"sig_no":35001,"data":{"toPage":13,"timestamp":1571320246189},"room_id":201}
+1571320248417 {"sig_no":35901,"data":{"methodName":"touchStartHandler","nodeName":"4","param":[],"timestamp":1571320247666},"room_id":201}
+1571320248418 {"sig_no":35901,"data":{"methodName":"touchBgHandler","nodeName":"q4","param":["4"],"timestamp":1571320247666},"room_id":201}
+1571320248499 {"sig_no":35901,"data":{"methodName":"syncIsMove","nodeName":"4","param":[],"timestamp":1571320247748},"room_id":201}
+1571320248564 {"sig_no":35902,"data":{"nodeName":"4","property":{"position":{"x":-145,"y":-203,"z":0},"zIndex":100},"timestamp":1571320247813},"room_id":201}
+1571320248730 {"sig_no":35902,"data":{"nodeName":"4","property":{"position":{"x":-157,"y":-125,"z":0},"zIndex":100},"timestamp":1571320247978},"room_id":201}
+1571320248913 {"sig_no":35902,"data":{"nodeName":"4","property":{"position":{"x":-157,"y":-107,"z":0},"zIndex":100},"timestamp":1571320248163},"room_id":201}
+1571320249064 {"sig_no":35901,"data":{"methodName":"touchEndHandler","nodeName":"4","param":[false,""],"timestamp":1571320248313},"room_id":201}
+1571320250119 {"sig_no":35901,"data":{"methodName":"touchStartHandler","nodeName":"5","param":[],"timestamp":1571320249368},"room_id":201}
+1571320250121 {"sig_no":35901,"data":{"methodName":"touchBgHandler","nodeName":"q4","param":["5"],"timestamp":1571320249369},"room_id":201}
+1571320250211 {"sig_no":35901,"data":{"methodName":"syncIsMove","nodeName":"5","param":[],"timestamp":1571320249460},"room_id":201}
+1571320250277 {"sig_no":35902,"data":{"nodeName":"5","property":{"position":{"x":45,"y":-214,"z":0},"zIndex":100},"timestamp":1571320249526},"room_id":201}
+1571320250443 {"sig_no":35902,"data":{"nodeName":"5","property":{"position":{"x":83,"y":-93,"z":0},"zIndex":100},"timestamp":1571320249692},"room_id":201}
+1571320250614 {"sig_no":35901,"data":{"methodName":"touchEndHandler","nodeName":"5","param":[false,""],"timestamp":1571320249863},"room_id":201}

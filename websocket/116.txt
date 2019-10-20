@@ -1,0 +1,11 @@
+1571055860966 {"sig_no":35001,"data":{"toPage":12,"timestamp":1571055860764},"room_id":116}
+1571055863342 {"sig_no":35008,"data":{"_name":"ScriptPlayerQuestionDispatchEvent","isDispatch":true,"isHybrid":false,"timestamp":1571055863141},"room_id":116}
+1571055872916 {"sig_no":35009,"data":{"_name":"ScriptPlayerQuestionReceiveEvent","isDispatch":false,"isHybrid":false,"timestamp":1571055872714},"room_id":116}
+1571055879806 {"sig_no":35008,"data":{"_name":"ScriptPlayerQuestionDispatchEvent","isDispatch":true,"isHybrid":false,"timestamp":1571055877644},"room_id":116}
+1571055881645 {"sig_no":35009,"data":{"_name":"ScriptPlayerQuestionReceiveEvent","isDispatch":false,"isHybrid":false,"timestamp":1571055881441},"room_id":116}
+1571055885731 {"sig_no":35901,"data":{"methodName":"touchBgHandler","nodeName":"q4","param":["4"],"timestamp":1571055885532},"room_id":116}
+1571055885817 {"sig_no":35901,"data":{"methodName":"syncIsMove","nodeName":"4","param":[],"timestamp":1571055885618},"room_id":116}
+1571055885819 {"sig_no":35902,"data":{"nodeName":"4","property":{"position":{"x":-105,"y":-243,"z":0},"zIndex":100},"timestamp":1571055885619},"room_id":116}
+1571055886679 {"sig_no":35901,"data":{"methodName":"touchBgHandler","nodeName":"q4","param":["bg"],"timestamp":1571055886469},"room_id":116}
+1571055889822 {"sig_no":35901,"data":{"methodName":"touchBgHandler","nodeName":"q4","param":["bg"],"timestamp":1571055886994},"room_id":116}
+1571055889823 {"sig_no":35901,"data":{"methodName":"touchBgHandler","nodeName":"q4","param":["bg"],"timestamp":1571055887562},"room_id":116}

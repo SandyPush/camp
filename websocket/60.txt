@@ -1,0 +1,3 @@
+1571056929791 {"sig_no":35001,"data":{"toPage":27,"timestamp":1571056929768},"room_id":60}
+1571056932418 {"sig_no":35008,"data":{"_name":"ScriptPlayerQuestionDispatchEvent","isDispatch":true,"isHybrid":false,"timestamp":1571056932395},"room_id":60}
+1571056938152 {"sig_no":35009,"data":{"_name":"ScriptPlayerQuestionReceiveEvent","isDispatch":false,"isHybrid":false,"timestamp":1571056938129},"room_id":60}

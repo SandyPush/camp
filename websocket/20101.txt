@@ -1,0 +1,10 @@
+1569324124455 {"sig_no":35901,"data":{"methodName":"selectItem","nodeName":"q4","param":[""],"timestamp":1569324124444},"room_id":20101}
+1569324134429 {"sig_no":35901,"data":{"methodName":"selectItem","nodeName":"q4","param":["Item2"],"timestamp":1569324134418},"room_id":20101}
+1569324134432 {"sig_no":35901,"data":{"methodName":"startMoveItem","nodeName":"q4","param":[],"timestamp":1569324134422},"room_id":20101}
+1569324134488 {"sig_no":35910,"data":{"name":"Item2","x":220,"y":-75,"timestamp":1569324134478},"room_id":20101}
+1569324134490 {"sig_no":35901,"data":{"methodName":"endMoveItem","nodeName":"q4","param":[],"timestamp":1569324134480},"room_id":20101}
+1569324142107 {"sig_no":35901,"data":{"methodName":"startMoveItem","nodeName":"q4","param":[],"timestamp":1569324142093},"room_id":20101}
+1569324142253 {"sig_no":35901,"data":{"methodName":"rotItem","nodeName":"q4","param":[],"timestamp":1569324142240},"room_id":20101}
+1569324142254 {"sig_no":35910,"data":{"name":"Item2","x":220,"y":-75,"timestamp":1569324142241},"room_id":20101}
+1569324142255 {"sig_no":35901,"data":{"methodName":"endMoveItem","nodeName":"q4","param":[],"timestamp":1569324142241},"room_id":20101}
+1569324142557 {"sig_no":35901,"data":{"methodName":"endMoveItem","nodeName":"q4","param":[],"timestamp":1569324142545},"room_id":20101}

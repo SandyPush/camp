@@ -1,0 +1,5 @@
+1566976965996 {"sig_no":35001,"data":{"toPage":14,"timestamp":1566976963545},"room_id":2008}
+1566976971094 {"sig_no":35901,"data":{"methodName":"rightClick","nodeName":"cube1","param":[],"timestamp":1566976968644},"room_id":2008}
+1566976973061 {"sig_no":35901,"data":{"methodName":"rightClick","nodeName":"cube4","param":[],"timestamp":1566976970600},"room_id":2008}
+1566976974921 {"sig_no":35008,"data":{"_name":"ScriptPlayerQuestionDispatchEvent","isDispatch":true,"timestamp":1566976972471},"room_id":2008}
+1566976981767 {"sig_no":35009,"data":{"_name":"ScriptPlayerQuestionReceiveEvent","isDispatch":false,"timestamp":1566976979317},"room_id":2008}

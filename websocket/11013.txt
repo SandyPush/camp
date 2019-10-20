@@ -1,0 +1,14 @@
+1570796121697 {"sig_no":35001,"data":{"toPage":6,"timestamp":1570796121349},"room_id":11013}
+1570796123185 {"sig_no":35901,"data":{"methodName":"touchStartHandler","nodeName":"ZSItem1","param":[],"timestamp":1570796122837},"room_id":11013}
+1570796123241 {"sig_no":35901,"data":{"methodName":"syncIsMove","nodeName":"ZSItem1","param":[],"timestamp":1570796122894},"room_id":11013}
+1570796123245 {"sig_no":35901,"data":{"methodName":"onDragMoveHandler","nodeName":"q1_0","param":["ZSItem1","ZSItem1",null,null,null],"timestamp":1570796122899},"room_id":11013}
+1570796123257 {"sig_no":35901,"data":{"methodName":"onDragMoveHandler","nodeName":"q1_0","param":["ZSItem1","ZSItem1",null,null,null],"timestamp":1570796122911},"room_id":11013}
+1570796123273 {"sig_no":35901,"data":{"methodName":"onDragMoveHandler","nodeName":"q1_0","param":["ZSItem1","ZSItem1",null,null,null],"timestamp":1570796122926},"room_id":11013}
+1570796123289 {"sig_no":35901,"data":{"methodName":"onDragMoveHandler","nodeName":"q1_0","param":["ZSItem1","ZSItem1",null,null,null],"timestamp":1570796122943},"room_id":11013}
+1570796123307 {"sig_no":35901,"data":{"methodName":"onDragMoveHandler","nodeName":"q1_0","param":["ZSItem1","ZSItem1",null,null,null],"timestamp":1570796122960},"room_id":11013}
+1570796123325 {"sig_no":35901,"data":{"methodName":"onDragMoveHandler","nodeName":"q1_0","param":["ZSItem1","ZSItem1",null,null,null],"timestamp":1570796122978},"room_id":11013}
+1570796123340 {"sig_no":35902,"data":{"nodeName":"ZSItem1","property":{"position":{"x":-322,"y":-77,"z":0},"zIndex":100},"timestamp":1570796122993},"room_id":11013}
+1570796123341 {"sig_no":35901,"data":{"methodName":"onDragMoveHandler","nodeName":"q1_0","param":["ZSItem1","ZSItem1",null,null,null],"timestamp":1570796122993},"room_id":11013}
+1570796123613 {"sig_no":35901,"data":{"methodName":"touchEndHandler","nodeName":"ZSItem1","param":[false,""],"timestamp":1570796123265},"room_id":11013}
+1570796124740 {"sig_no":35008,"data":{"_name":"ScriptPlayerQuestionDispatchEvent","isDispatch":true,"isHybrid":false,"timestamp":1570796124393},"room_id":11013}
+1570796127808 {"sig_no":35009,"data":{"_name":"ScriptPlayerQuestionReceiveEvent","isDispatch":false,"isHybrid":false,"timestamp":1570796127460},"room_id":11013}

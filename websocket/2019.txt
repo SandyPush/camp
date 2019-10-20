@@ -1,0 +1,11 @@
+1569328201088 {"sig_no":35001,"data":{"toPage":22,"timestamp":1569328199955},"room_id":2019}
+1569328201304 {"sig_no":35901,"data":{"methodName":"selectItem","nodeName":"q4","param":[""],"timestamp":1569328200174},"room_id":2019}
+1569328202268 {"sig_no":35901,"data":{"methodName":"selectItem","nodeName":"q4","param":["Item1"],"timestamp":1569328201138},"room_id":2019}
+1569328202270 {"sig_no":35901,"data":{"methodName":"startMoveItem","nodeName":"q4","param":[],"timestamp":1569328201139},"room_id":2019}
+1569328202310 {"sig_no":35910,"data":{"name":"Item1","x":-119.205,"y":-73,"timestamp":1569328201180},"room_id":2019}
+1569328202464 {"sig_no":35910,"data":{"name":"Item1","x":180.79500000000002,"y":143,"timestamp":1569328201334},"room_id":2019}
+1569328202617 {"sig_no":35910,"data":{"name":"Item1","x":226.79500000000002,"y":165,"timestamp":1569328201487},"room_id":2019}
+1569328202861 {"sig_no":35910,"data":{"name":"Item1","x":226.79500000000002,"y":165,"timestamp":1569328201731},"room_id":2019}
+1569328203161 {"sig_no":35910,"data":{"name":"Item1","x":226.79500000000002,"y":153,"timestamp":1569328202030},"room_id":2019}
+1569328203166 {"sig_no":35901,"data":{"methodName":"endMoveItem","nodeName":"q4","param":[],"timestamp":1569328202036},"room_id":2019}
+1569328203292 {"sig_no":35901,"data":{"methodName":"selectItem","nodeName":"q4","param":[""],"timestamp":1569328202161},"room_id":2019}
